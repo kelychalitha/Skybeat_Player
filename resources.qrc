@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/control_pause.png</file>
+        <file>icons/control_play.jpg</file>
+        <file>icons/control_stop.png</file>
+        <file>icons/folder-paper-flat-icon-isofolder_page_white.jpg</file>
+    </qresource>
+</RCC>
